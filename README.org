@@ -1,1 +1,12 @@
-# emacs.d
+#+HTML:<div align=center><a href="https://github.com/zibo-wang/emacs.d"><img alt="Emacs Logo" width="240" height="240" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg"></a>
+
+* emacs.d
+
+#+HTML:</div>
+
+* Table of Contents                                                     :TOC_5:QUOTE:
+#+BEGIN_QUOTE
+- [[#emacs.d][emacs.d]]
+    - [[#installation][Installation]]
+
+#+END_QUOTE
